@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = german.cardenas.email@gmail.com
+	name = German Cardenas Leroy
